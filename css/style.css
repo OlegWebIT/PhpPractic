@@ -1,0 +1,31 @@
+p {
+    margin: 0;
+}
+header .foot_head_item {
+    font-size: 16px;
+    margin-right: 30px;
+}
+
+.foot_head_item {
+    text-decoration: none;
+}
+
+.is-footer {
+    display: inline-flex;
+    flex-direction: column;
+
+}
+
+.is-footer .foot_head_item {
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.all_imgs {
+    list-style: none;
+}
+
+.img_item img {
+    max-width: 200px;
+    margin: 20px 0;
+}
